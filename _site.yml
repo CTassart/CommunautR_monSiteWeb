@@ -26,3 +26,8 @@ navbar:
   right:
     - icon: fa-question fa-lg
       href: https://example.com
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: styles.css
